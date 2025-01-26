@@ -1,0 +1,9 @@
+name: KioCG-ItemCompress
+main: com.kiocg.ItemCompress.ItemCompress
+version: 2021
+api-version: 1.17
+
+permissions:
+  kiocg.itemcompress.use:
+    description: 允许压缩物品
+    default: true
